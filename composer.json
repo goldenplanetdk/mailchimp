@@ -1,0 +1,6 @@
+{
+  "name":"goldenplanet/mailchimp",
+  "autoload":{
+    "classmap": ["vendor/mailchimp/MCAPI.class.php"]
+  }
+}
